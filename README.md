@@ -2,7 +2,7 @@
 JDK 11.0.18
 
 # Run
-This project is a simple interface project and to run it, we can use Netbeans or Eclipse as IDE.
+This project is a simple command line project and to run it, we can use Netbeans or Eclipse as IDE.
 With this we clean & build the project and after that we run.
 
 # Usage
